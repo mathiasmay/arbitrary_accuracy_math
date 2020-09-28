@@ -1,0 +1,16 @@
+package math.number_representations.positive_rational_number.quotient_of_two_positive_whole_numbers;
+
+import java.util.Optional;
+
+import math.number_exceptions.FinalRuntimeExceptionResultIsNotInTheSet;
+import math.number_representations.AbstractMutableDigitRepresentation;
+import math.number_representations.whole_number.sequence_of_digits.FinalInternalRepresentationForWholeNumberAsASequenceOfDigits;
+
+public final class
+           FinalInternalRepresentationForPositiveRationalNumberAsAQuotientOfTwoPositiveWholeNumbers
+extends AbstractInternalRepresentationForPositiveRationalNumberAsAQuotientOfTwoPositiveWholeNumbers
+{
+
+
+        
+}

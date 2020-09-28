@@ -1,0 +1,13 @@
+package math.number_representations;
+
+import math.number_representations.positive_whole_number.SomeInternalRepresentationForPositiveWholeNumber;
+import math.number_representations.positive_whole_number.sequence_of_digits.FinalInternalRepresentationForPositiveWholeNumberAsASequenceOfDigits;
+
+public interface
+Magnitude_is_available_as_FinalInternalRepresentationForPositiveWholeNumberAsASequenceOfDigits
+{
+    public abstract
+    FinalInternalRepresentationForPositiveWholeNumberAsASequenceOfDigits
+        magnitudeAsPositiveWholeNumber();
+    
+}

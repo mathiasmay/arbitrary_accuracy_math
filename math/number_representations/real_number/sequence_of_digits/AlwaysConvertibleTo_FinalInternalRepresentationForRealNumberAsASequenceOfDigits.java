@@ -1,0 +1,11 @@
+package math.number_representations.real_number.sequence_of_digits;
+
+import math.number_representations.real_number.SomeInternalRepresentationForRealNumber;
+
+public interface
+AlwaysConvertibleTo_FinalInternalRepresentationForRealNumberAsASequenceOfDigits
+{
+    public abstract FinalInternalRepresentationForRealNumberAsASequenceOfDigits
+	new__convert_to_FinalInternalRepresentationForRealNumberAsASequenceOfDigits
+	();
+}

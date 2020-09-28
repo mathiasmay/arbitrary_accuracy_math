@@ -1,0 +1,9 @@
+package math.number_representations;
+
+import math.number_representations.positive_whole_number.sequence_of_digits.FinalInternalRepresentationForPositiveWholeNumberAsASequenceOfDigits;
+import math.number_representations.rational_number.quotient_of_two_whole_numbers.FinalInternalRepresentationForRationalNumberAsAQuotientOfTwoWholeNumbers;
+
+public class Static_NumberRepresentation_Tools
+{
+	
+}
